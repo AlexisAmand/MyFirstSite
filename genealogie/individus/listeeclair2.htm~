@@ -1,0 +1,190 @@
+<HTML>
+<HEAD>
+<TITLE>Liste éclair</TITLE>
+<LINK rel="STYLESHEET" type="text/css" HREF="../menu/css.css">
+<SCRIPT LANGUAGE="Javascript" SRC="../menu/coolmenus.js"></SCRIPT>
+</HEAD> 
+<BODY topmargin=0 marginheight=0 background="./../images/fond.jpg">
+<SCRIPT LANGUAGE="Javascript" SRC="../menu/menu.js"></SCRIPT>
+<BR><BR>
+<BR><BR>
+<CENTER><DIV class="titre">Liste éclair</DIV></CENTER>
+<BR><BR>
+<CENTER>
+<TABLE border=1 cellspacing=0><TR>
+<TD class="titretab" align="center">
+Patronyme
+</TD><TD class="titretab" align="center">
+Lieu
+</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus6.htm#i691">HARMEGNIES</A>
+<TD nowrap>Dour B7370</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus6.htm#i697">HECQUET</A>
+<TD nowrap>Dour B7370</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus6.htm#i699">HENAIN</A>
+<TD nowrap>Valenciennes 59300</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus7.htm#i704">HEUX</A>
+<TD nowrap>Billy-Montigny 62420</TD></TR>
+<TR><TD rowspan=2 valign="top">
+<A HREF="../individus/listeindividus7.htm#i715">JACOB</A>
+<TD nowrap>Thulin B7350</TD></TR><TD nowrap>Saultain 59990</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus7.htm#i720">JASPART</A>
+<TD nowrap>Dour B7370</TD></TR>
+<TR><TD rowspan=2 valign="top">
+<A HREF="../individus/listeindividus7.htm#i722">JOLY</A>
+<TD nowrap>Quarouble 59243</TD></TR><TD nowrap>Onnaing 59264</TD></TR>
+<TR><TD rowspan=2 valign="top">
+<A HREF="../individus/listeindividus7.htm#i766">JOSSON</A>
+<TD nowrap>Lievin 62800</TD></TR><TD nowrap>Charleroi- Pa</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus7.htm#i769">JUVENT</A>
+<TD nowrap>Dour B7370</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus7.htm#i782">LAHOUTE</A>
+<TD nowrap>Crespin 59154</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus7.htm#i784">LAREIN</A>
+<TD nowrap>La Louviere B7100</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus7.htm#i785">LAURENT</A>
+<TD nowrap>Dour B7370</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus7.htm#i794">LE BAILLY</A>
+<TD nowrap>Quarouble 59243</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus7.htm#i797">LECLERCQ</A>
+<TD nowrap>Pommeroeul B7320</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus7.htm#i799">LECOMTE</A>
+<TD nowrap>Thulin B7350</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus8.htm#i802">LEFEBVRE</A>
+<TD nowrap>Dour B7370</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus8.htm#i827">LEFEVRE</A>
+<TD nowrap>Dour B7370</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus8.htm#i833">LEGRAND</A>
+<TD nowrap>Fresnes sur Escaut 59970</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus8.htm#i835">LEJAYE</A>
+<TD nowrap>Quarouble 59243</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus8.htm#i836">LEJEUNE</A>
+<TD nowrap>Dour B7370</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus8.htm#i837">LELEU</A>
+<TD nowrap>Lille 59800</TD></TR>
+<TR><TD rowspan=3 valign="top">
+<A HREF="../individus/listeindividus8.htm#i839">LEMAIRE</A>
+<TD nowrap>Thulin B7350</TD></TR><TD nowrap>Boussu B7300</TD></TR><TD nowrap>Quiévrechain 59920</TD></TR>
+<TR><TD rowspan=3 valign="top">
+<A HREF="../individus/listeindividus8.htm#i843">LEPAPE</A>
+<TD nowrap>Boussu B7300</TD></TR><TD nowrap>Dour B7370</TD></TR><TD nowrap>Hensies B7350</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus8.htm#i867">LEQUIPART</A>
+<TD nowrap>Crespin 59154</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus8.htm#i869">LERAT</A>
+<TD nowrap>Dour B7370</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus8.htm#i871">LEROY</A>
+<TD nowrap>Dour B7370</TD></TR>
+<TR><TD rowspan=3 valign="top">
+<A HREF="../individus/listeindividus8.htm#i874">LIENARD</A>
+<TD nowrap>Dour B7370</TD></TR><TD nowrap>La Bouverie B7080</TD></TR><TD nowrap>Hornu B7301</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus8.htm#i880">LOHIEZ</A>
+<TD nowrap>Lille 59800</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus8.htm#i882">LOISON</A>
+<TD nowrap>Quarouble 59243</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus8.htm#i883">LOTTE</A>
+<TD nowrap>Onnaing 59264</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus8.htm#i884">LOUCHARD</A>
+<TD nowrap>Dour B7370</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus8.htm#i892">MALENGREAUX</A>
+<TD nowrap>Dour B7370</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus8.htm#i896">MARECHAL</A>
+<TD nowrap>Fresnes sur Escaut 59970</TD></TR>
+<TR><TD rowspan=2 valign="top">
+<A HREF="../individus/listeindividus9.htm#i900">MARISSALE</A>
+<TD nowrap>Bellaing 59135</TD></TR><TD nowrap>Haveluy 59255</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus9.htm#i901">MARTIN</A>
+<TD nowrap>Quarouble 59243</TD></TR>
+<TR><TD rowspan=2 valign="top">
+<A HREF="../individus/listeindividus9.htm#i904">MASCART</A>
+<TD nowrap>Quarouble 59243</TD></TR><TD nowrap>Estaimpuis B7730</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus9.htm#i930">MATON</A>
+<TD nowrap>Quaregnon B7390</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus9.htm#i931">MAUROIE</A>
+<TD nowrap>Pommeroeul B7320</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus9.htm#i933">MAZY</A>
+<TD nowrap>Villers Guislain 59297</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus9.htm#i942">MIROIR</A>
+<TD nowrap>Dour B7370</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus9.htm#i944">MOCHET</A>
+<TD nowrap>Quarouble 59243</TD></TR>
+<TR><TD rowspan=2 valign="top">
+<A HREF="../individus/listeindividus9.htm#i949">MONET</A>
+<TD nowrap>Wiheries B7370</TD></TR><TD nowrap>Dour B7370</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus9.htm#i953">MONNART</A>
+<TD nowrap>Quarouble 59243</TD></TR>
+<TR><TD rowspan=2 valign="top">
+<A HREF="../individus/listeindividus9.htm#i954">MONTUELLE</A>
+<TD nowrap>Denain 59220</TD></TR><TD nowrap>Quiévrechain 59920</TD></TR>
+<TR><TD rowspan=2 valign="top">
+<A HREF="../individus/listeindividus9.htm#i958">MOREAU</A>
+<TD nowrap>Dour B7370</TD></TR><TD nowrap>Elouges B7370</TD></TR>
+<TR><TD rowspan=2 valign="top">
+<A HREF="../individus/listeindividus9.htm#i988">MORIAU</A>
+<TD nowrap>Quievrain B7380</TD></TR><TD nowrap>Quarouble 59243</TD></TR>
+<TR><TD rowspan=2 valign="top">
+<A HREF="../individus/listeindividus9.htm#i992">MOURY</A>
+<TD nowrap>Dour B7370</TD></TR><TD nowrap>Elouges B7370</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus10.htm#i1005">NAMUR</A>
+<TD nowrap>Quarouble 59243</TD></TR>
+<TR><TD rowspan=1 valign="top">
+<A HREF="../individus/listeindividus10.htm#i1007">NIQUET</A>
+<TD nowrap>Dour B7370</TD></TR>
+<TR><TD rowspan=2 valign="top">
+<A HREF="../individus/listeindividus10.htm#i1009">NOTTEGHEM</A>
+<TD nowrap>Flobecq B7880</TD></TR><TD nowrap>Boussu B7300</TD></TR>
+</TD></TR></TABLE>
+<BR><BR>
+<BR><BR>
+<CENTER>
+<A HREF="./../individus/listeeclair1.htm"><IMG SRC="../images/iconLeft.gif" border=0></A>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<A HREF="./../individus/listeeclair2.htm#"><IMG SRC="../images/iconTop.gif" border=0></A>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<A HREF="./../individus/listeeclair3.htm"><IMG SRC="../images/iconRight.gif" border=0></A>
+</CENTER>
+<BR><BR>
+<DIV class="baspage" align="center"> 
+Ces pages ont été créées par
+<A HREF="http://www.heredis.com" target="_blank">Heredis 10 pour Windows</A>
+, &copy; BSD Concept 
+<BR><BR>
+<A HREF="http://www.heredis.com" target="_blank"><IMG SRC="../images/heredis.jpg" border=0></A> 
+<A HREF="http://www.planete-genealogie.fr" target="_blank"><IMG SRC="../images/pg.jpg" border=0></A> 
+</DIV> 
+</BODY>
+</HTML>

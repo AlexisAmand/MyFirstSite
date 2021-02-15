@@ -1,0 +1,6 @@
+<html>
+<frameset cols="130,*" frameborder="0">
+	<frame src="frames/menu.html" scrolling="auto" frameborder="0" name="menu" marginwidth="10" marginheight="10" noresize></frame>
+	<frame src="frames/main.html" name="main" marginwidth="10" marginheight="10" noresize></frame>
+</frameset>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+  <title></title>
+<LINK rel="STYLESHEET" type="text/css" HREF="style.css">
+  <meta name="GENERATOR" content="Quanta Plus">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+</head>
+
+<BODY  topmargin=0 marginheight=0 background="../images/fondgrand.jpg">
+<!-- phpmyvisites -->
+<a href="http://www.phpmyvisites.net/" title="phpMyVisites | Open source web analytics"
+onclick="window.open(this.href);return(false);"><script type="text/javascript">
+<!--
+var a_vars = Array();
+var pagename='';
+
+var phpmyvisitesSite = 1;
+var phpmyvisitesURL = "http://tabouet.hostarea.org/phpmyvisites/phpmv2/phpmyvisites.php";
+//-->
+</script>
+<script language="javascript" src="http://tabouet.hostarea.org/phpmyvisites/phpmv2/phpmyvisites.js" type="text/javascript"></script>
+<object><noscript><p>phpMyVisites | Open source web analytics
+<img src="http://tabouet.hostarea.org/phpmyvisites/phpmv2/phpmyvisites.php" alt="Statistics" style="border:0" />
+</p></noscript></object></a>
+<!-- /phpmyvisites --> 
+<table width="100%">
+<tr>
+<td>
+<a href="http://www.la-genealogie-entre-amis.com" target="_blank"><IMG src="postit.png" width="223" height="212" align="left" border="0"></a><br>
+
+</td></tr>
+<td>
+<tr>
+<td>
+<p class="titre" align="center">
+<img src="b.gif"><img src="i.gif"><img src="e1.gif"><img src="n.gif"><img src="v.gif"><img src="e2.gif"><img src="n2.gif"><img src="u.gif"><img src="e3.gif">
+</p>
+</td>
+</tr>
+
+
+<tr>
+<td>
+Bonjour,<br>
+Je vous souhaite la bienvenue sur mon site perso, pour l'instant il présente mon CV et ma généalogie, mais trés vite je vais essayer d'y présenter mes passions, mes coups de coeur, et plein de choses ! Vous pouvez utiliser le menu de gauche pour naviguer dans les rubriques. Si le menu n'est pas là, <a href="../index.html" target="_parent">cliquez ici.</a><br>
+Sinon, pour ceux qui sont curieux, je m'appelle Alexis, j'ai 29 ans et j'habite à Xxxxxxx (Je n'ai pas pas l'autorisation du F.B.I de révéler ses informations).<br><br>
+Le site est en perpetuelle évolution, venez souvent !!....mdr<br>
+<br>
+</td>
+</tr>
+<br><br><br><br><br>
+<p align="center">
+<img src="banniere.gif">
+</p>
+
+
+
+
+
+</body>
+</html>
